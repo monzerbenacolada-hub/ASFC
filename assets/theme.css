@@ -1,0 +1,19 @@
+.autogear-homepage {
+  text-align: center;
+  padding: 2rem;
+  background: #F7F7F7;
+}
+.autogear-homepage h1 {
+  font-size: 3rem;
+  color: #333;
+}
+.autogear-homepage p {
+  font-size: 1.2rem;
+  color: #555;
+}
+.autogear-homepage img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 2rem;
+  border-radius: 8px;
+}
