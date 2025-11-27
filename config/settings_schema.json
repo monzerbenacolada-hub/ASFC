@@ -1,0 +1,1 @@
+[  {    "name": "Home page",    "settings": [      {        "type": "text",        "id": "title",        "label": "Homepage Title",        "default": "Welcome to AUTOGEAR"      }    ]  }]
